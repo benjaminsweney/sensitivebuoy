@@ -2,7 +2,7 @@
 
 -- introduction
 
-Sensitive Bouy is a low cost marine capable device for measuring environmental factors
+. Sensitive Bouy is a low cost marine capable device for measuring environmental factors
 
 Initial measurements will be
 
@@ -10,7 +10,7 @@ Initial measurements will be
 
 -- Wave Height
 
-IOT device
+- IOT device
 
 A enclosure will be custom built to contain 
 
@@ -24,11 +24,11 @@ Turbidity will be measured with the Light meter measuring the LUX through a pipe
 
 - Wave Height
 
-Physical deployment
+- Physical deployment
 
-Networks
+- Networks
 
-GPS 
+- GPS 
 
 LORA
 LORA when in range will be used 
