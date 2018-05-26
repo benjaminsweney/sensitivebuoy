@@ -51,6 +51,10 @@ https://docs.pycom.io/chapter/pytrackpysense/apireference/pysense.html
 * Calculation - double integral to get area of wave hieght
 * Pycom API calls
 * Frequency : Once per 12 hours
+3d axis accelerometer to to measure acceleration, 
+integrate acceleration over time to get the speed, 
+integrate speed over time to get distanceaddd
+it boils down to a formula like  height = sum(0.5*a*t^2)   // sum as long as the vertical acceleration has the same sign. 
 
 
 ### Location
