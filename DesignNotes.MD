@@ -1,6 +1,6 @@
-- Design notes for sensitive buoy
+# Design notes for sensitive buoy
 
--- introduction
+## introduction
 
 . Sensitive Bouy is a low cost marine capable device for measuring environmental factors
 
@@ -10,25 +10,33 @@ Initial measurements will be
 
 -- Wave Height
 
-- IOT device
+## IOT device
 
 A enclosure will be custom built to contain 
 
-pycom pi sense - Light and acceleromator
+* pycom pi sense - Light and acceleromator
+* pycom pi track - GPS
 
-pycom pi track - GPS
-
--Turbidity
+### Turbidity
 Turbidity will be measured with the Light meter measuring the LUX through a pipe
 
+### Wave Hieght
+Acceleromter double integral
 
-- Wave Height
 
-- Physical deployment
+### Location
+Location from periodic GPS readings
 
-- Networks
 
-- GPS 
+## Pysicical deployment
+Custom 3d 
 
-LORA
-LORA when in range will be used 
+## Networks
+
+### GPS 
+
+### LORA
+* Data output
+* Queue packets LORA when in range will be used 
+* Data inoput
+* Ping and queries of device health
