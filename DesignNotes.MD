@@ -4,7 +4,7 @@
 
 . Sensitive Bouy is a low cost marine capable device for measuring environmental factors
 
-Initial measurements will be
+Initial environmental factors will be
 
 -- Turbidity of water
 
