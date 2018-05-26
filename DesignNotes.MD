@@ -36,7 +36,8 @@ Pycom Devices
 
 An IPX7 level enclosure will be custom built to contain. The enclosure can be a moification of a standard marine bouy
 
-* pycom pi sense board - Light and acceleromator
+* pycom pi sense board - Light and acceleromator temp pressure
+https://docs.pycom.io/chapter/pytrackpysense/apireference/pysense.html
 * pycom pi track board - GPS
 
 ### Turbidity
