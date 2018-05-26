@@ -11,10 +11,12 @@ Initial environmental factors will be
 -- Wave Height
 
 ## Background
-History of nautical bouys
-https://cdip.ucsd.edu/?nav=documents&sub=index&xitem=gauge#buoys
-Discussion on Wave Height calculation
-https://cdip.ucsd.edu/?nav=documents&sub=index&xitem=waves
+[History of nautical bouys]
+(https://cdip.ucsd.edu/?nav=documents&sub=index&xitem=gauge#buoys)
+[Discussion on Wave Height calculation]
+(https://cdip.ucsd.edu/?nav=documents&sub=index&xitem=waves)
+[More on Wave hieght calculation]
+(https://www.smhi.se/en/theme/measuring-and-calculating-waves-1.12267)
 
 ## IOT device
 Pycom Devices
