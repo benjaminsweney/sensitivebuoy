@@ -23,6 +23,8 @@ Initial environmental factors will be
 (https://www.smhi.se/en/theme/measuring-and-calculating-waves-1.12267)
 ### Turbdity Measurement
 https://www.lenntech.com/turbidity.htm
+Measuring turbidity
+http://camblab.info/wp/index.php/how-can-i-measure-turbidity/
 
 ## IOT device
 Pycom Devices
